@@ -7,27 +7,27 @@ const Skills = () => {
     {
       id: 1,
       heading: "Functional Tools & Methodologies",
-      skills: ["Jira", "Confluence", "Git", "GitHub", "CI/CD", "Agile", "Scrum"]
+      skills: ["Redmine", "Gitlab", "Git", "GitHub", "CI/CD", "Agile", "VS Code", "pgAdmin"]
     },
 
     {
       id: 2,
       heading: "Cloud & DevOps",
-      skills: ["AWS", "MS Azure", "Terraform", "Redis"]
+      skills: ["MS Azure", "Terraform", "Redis"]
     },
     {
       id: 3,
       heading: "Big Data & Processing",
-      skills: ["Spring", "SpringBoot", "React", "Apps Framework"]
+      skills: ["Databricks", "Blob Storage", "PostgreSQL", "SqlAlchemy"]
     }, {
       id: 4,
       heading: "Backend Development",
-      skills: ["Node JS", "SQL", "Mongo DB"]
+      skills: ["Python", "Flask", "fastApi", "SQL", "PostgreSQl"]
     },
     {
       id: 5,
       heading: "Frontend Development",
-      skills: ["HTML5", "CSS3", "JavaScript", "React JS"]
+      skills: ["HTML5", "CSS3", "JavaScript", "Vue JS", "React JS"]
     },
     {
       id: 6,

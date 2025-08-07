@@ -10,7 +10,7 @@ const Education_profile = () => {
           <div className="container experience__container">
             {/* frontend */}
             <div className='experience__frontend'>
-              <h1>SJB INSTITUTE OF TECHNOLOGY</h1>
+              <h1>Sri Sairam College of Engineering</h1>
               <h3>(01-08-2018-28-07-2022)</h3>
               <h3>Location:-Bengaluru , Karnataka</h3>
               <h2>Bachelor Of Engineering(B.E)</h2>

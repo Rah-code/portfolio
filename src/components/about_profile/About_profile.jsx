@@ -23,14 +23,14 @@ const About_profile = () => {
                             <article className='about__card' style={{ cursor: "pointer" }}>
                                 <FaAward className='about__icon' />
                                 <h5>Experience</h5>
-                                <h3>2.5+</h3>
+                                <h3>3+</h3>
                             </article>
                         </Link>
                         <Link to="" style={{ color: "white" }}>
                             <article className='about__card' style={{ cursor: "pointer" }}>
                                 <GiSpellBook className='about__icon' />
                                 <h5>Internship</h5>
-                                <h3>4+<small> projects</small></h3>
+                                <h3>3+<small> projects</small></h3>
                             </article>
                         </Link>
 
@@ -42,9 +42,9 @@ const About_profile = () => {
                         </Link>
                     </div>
                     <p>
-                        My name is Astha Solanki. My highest Education Qualification is B.E from
-                        S.J.B INSTITUTE OF TECHNOLOGY,Bengaluru,Karnataka.My Stream is Computer Science and Engineering.
-                        I am a Data Engineer currently working at Accenture.
+                        My name is Rahul Jaiswal. My highest Education Qualification is B.E from
+                        Sri Sairam College of Engineering, Bengaluru, Karnataka. My Stream is Computer Science and Engineering.
+                        I am a FullStack Developer currently working at Toshiba Software India Pvt. Ltd.
 
                     </p>
 

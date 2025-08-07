@@ -12,13 +12,13 @@ const Portfolio = () => {
             id: 1,
             image: IMG2,
             title: "Online Shopping System",
-            github: "https://github.com/astharajput/online-shopping"
+            github: "https://github.com/Rah-code/online-shopping"
         },
         {
             id: 2,
             image: IMG1,
             title: "Task Scheduling in Cloud Computing",
-            github: "https://github.com/astharajput"
+            github: "https://github.com/Rah-code"
         }
     ]
     data = data.sort((a, b) => b.id - a.id)
@@ -51,7 +51,7 @@ const Portfolio = () => {
                                 <h3>{title}</h3>
                                 <div className="portfolio__item-cta">
                                     <a href={github} className='btn' target="_blank">Github</a>
-                                    <Link to={`/portfolio/${id}`} className='btn btn-primary' target="_blank">Explaination</Link>
+                                    <Link to={`/portfolio/${id}`} className='btn btn-primary' target="_blank">Explanation</Link>
                                 </div>
 
 

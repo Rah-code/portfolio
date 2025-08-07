@@ -9,9 +9,9 @@ const Experience = () => {
       <h2> My Experiences</h2>
       <div className="container experience__container">
         <div className='experience__frontend'>
-          <h1>Accenture</h1>
+          <h1>Toshiba Software India Pvt. Ltd.</h1>
           <h2>Software Engineer</h2>
-          <h3>(07-11-2022 - Present)</h3>
+          <h3>(01-08-2022 - Present)</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <FaRegHandPointRight className='experience__details-icon' />
@@ -20,6 +20,8 @@ const Experience = () => {
                 <h4> <FaRegHandPointRight /> Built and deployed scalable data pipelines using Apache Spark and Databricks.</h4>
                 <h4> <FaRegHandPointRight /> Developed efficient ETL workflows to process, transform, and load large datasets.</h4>
                 <h4> <FaRegHandPointRight /> Utilized Azure Data Factory, Blob Storage, and Azure Synapse for cloud-based data integration.</h4>
+                <h4> <FaRegHandPointRight /> Migrated from 9.1 LTS DBR version to 15.4 LTS DBR version</h4>
+
               </div>
             </article>
             <article className='experience__details'>

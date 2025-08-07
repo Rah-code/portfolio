@@ -9,14 +9,14 @@ const Profile = () => {
     <header>
       <div className="container header__container">
         <h5>Hello I'm</h5>
-        <h1>Astha Solanki</h1>
-        <h5 className="text-light">Data Engineer</h5>
+        <h1>Rahul Jaiswal</h1>
+        <h5 className="text-light">FullStack Developer</h5>
         <CTA />
         <div className="me">
           <img src={ME} alt='me' />
         </div>
         <Socials />
-        <a className='scroll__down'>Data Engineer</a>
+        <a className='scroll__down'>FullStack Developer</a>
       </div>
     </header>
   )

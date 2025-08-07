@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Route, Switch, HashRouter } from 'react-router
 
 function App() {
   return (
-    <HashRouter basename="/astha">
+    <HashRouter basename="/rahul">
       <Switch>
         <Route exact path="/" component={Home}></Route>
         <Route exact path="/about" component={About}></Route>

@@ -12,7 +12,7 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
     <footer>
-      <Link to="/" className='footer__logo'>Astha Solanki</Link>
+      <Link to="/" className='footer__logo'>Rahul Jaiswal</Link>
       <ul className='permalinks'>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About</Link></li>
@@ -23,8 +23,8 @@ const Footer = () => {
         <li><Link to="/contact">Contact Us</Link></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/astha1606/" target="_blank"><BsLinkedin /></a>
-        <a href="https://github.com/astharajput" target="_blank"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/rahuljaiswalsoftwaredeveloper/" target="_blank"><BsLinkedin /></a>
+        <a href="https://github.com/Rah-code" target="_blank"><FaGithub /></a>
         <a href="https://www.facebook.com/" target="_blank"><FaFacebookF /></a>
         <a href="https://www.instagram.com/" target="_blank"><FaInstagramSquare /></a>
         <a href="https://www.youtube.com/" target="_blank"><BsYoutube /></a>
@@ -35,7 +35,7 @@ const Footer = () => {
 
       </div>
       <div className="footer__copyright">
-        <small>&copy; Astha Solanki</small>
+        <small>&copy; Rahul Jaiswal</small>
       </div>
 
     </footer>
