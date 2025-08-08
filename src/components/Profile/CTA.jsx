@@ -1,6 +1,6 @@
 import React from 'react'
-import CV from '../../assets/astha(cv).pdf'
-import CL from '../../assets/astha(cl).pdf'
+import CV from '../../assets/rahul(cv).pdf'
+import CL from '../../assets/rahul(cl).pdf'
 import { Link } from 'react-router-dom'
 const CTA = () => {
   return (
